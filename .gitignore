@@ -1,0 +1,9 @@
+db/
+/wordpress/*
+!/wordpress/wp-content/
+/wordpress/wp-content/*
+!/wordpress/wp-content/plugins
+/wordpress/wp-content/plugins/akismet
+/wordpress/wp-content/plugins/*.php
+# !/wordpress/wp-content/themes
+# !/wordpress/wp-content/index.php
