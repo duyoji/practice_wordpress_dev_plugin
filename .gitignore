@@ -8,3 +8,4 @@ db/
 # !/wordpress/wp-content/themes
 # !/wordpress/wp-content/index.php
 /vendor/
+/wpcs/
