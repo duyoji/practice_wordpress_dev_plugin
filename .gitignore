@@ -7,3 +7,4 @@ db/
 /wordpress/wp-content/plugins/*.php
 # !/wordpress/wp-content/themes
 # !/wordpress/wp-content/index.php
+/vendor/
