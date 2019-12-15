@@ -1,0 +1,13 @@
+{
+    "name": "tsuyoshi/my-plugin",
+    "authors": [
+        {
+            "name": "Tsuyoshi Maeda",
+            "email": "oasis5tsuyoshi@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    }
+}
